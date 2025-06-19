@@ -38,7 +38,7 @@ Forget NuGet packages. Real control comes from owning the source.
 First, take the source code. Put it where you want it.
 
 ```bash
-git clone https://github.com/your-username/AotStringEncryptor.git
+git clone https://github.com/dadavadd/AotStringEncryptor
 ```
 
 #### 2. Integrate the Generator
